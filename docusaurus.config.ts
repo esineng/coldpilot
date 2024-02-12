@@ -11,7 +11,7 @@ const config: Config = {
   url: 'https://esineng.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/device-hub-doc/',
 
 
   // GitHub pages deployment config.
